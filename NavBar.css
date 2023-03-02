@@ -1,0 +1,32 @@
+.Nav{
+    background-color: Blue;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    position: top;
+    top:30px;
+    width: 100%;
+   
+    
+}
+li1{
+    float: left;
+}
+li1 a{
+    color: orange;
+    display: inline;
+    display: block;
+    padding-right: 10px;
+    font-size: 40px;
+    text-decoration-color:  red;
+}
+li1 a:hover{
+    background-color: maroon;
+}
+.active{
+    background-color: aquamarine;
+}
+.R{
+    unset
+}
